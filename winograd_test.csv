@@ -1,0 +1,283 @@
+Text,Pronoun,Pronoun-offset,A,A-offset,A-coref,B,B-offset,B-coref
+Mary likes Joe because she has a cool name.,she,23,Mary,0,False,Joe,11,True
+Mary likes Joe because she likes females.,she,23,Mary,0,True,Joe,11,False
+The bat hit the ball because it flew in the way of the trajectory.,it,29,The bat,0,True,the ball,12,False
+The bat hit the ball because it flew straight at the poor animal.,it,29,The bat,0,False,the ball,12,True
+The knife sliced through the flesh because it was sharp.,it,43,The knife,0,True,the flesh,25,False
+The knife sliced through the flesh because it was tender.,it,43,The knife,0,False,the flesh,25,True
+"The boy lied to his father about the crime, but he still felt uneasy and was slowly overcome with guilt.",he,48,The boy,0,True,his father,16,False
+"The boy lied to his father about the crime, but he still felt uneasy and was slowly overcome with curiosity.",he,48,The boy,0,False,his father,16,True
+The apple wine entered my mouth because it tastes good.,it,40,The apple wine,0,True,my mouth,23,False
+The apple wine entered my mouth because it was not full.,it,40,The apple wine,0,False,my mouth,23,True
+The boy helped his friend move because he was going to be free all day.,he,39,The boy,0,True,his friend,15,False
+The boy helped his friend move because he was going to be busy all day.,he,39,The boy,0,False,his friend,15,True
+The boy secretly watched his friend because he wanted the secret information.,he,44,The boy,0,True,his friend,25,False
+The boy secretly watched his friend because he had the secret information.,he,44,The boy,0,False,his friend,25,True
+"The bug was flying towards the light, but it was exterminated prematurely.",it,42,The bug,0,True,the light,27,False
+"The bug was flying towards the light, but it was extinguished prematurely.",it,42,The bug,0,False,the light,27,True
+"The man offered the boy candy, but he had no candy.",he,35,The man,0,True,the boy,16,False
+"The man offered the boy candy, but he got no candy.",he,35,The man,0,False,the boy,16,True
+Paul screamed at Jack since he was angry.,he,28,Paul,0,True,Jack,17,False
+Paul screamed at Jack since he was ignoring him.,he,28,Paul,0,False,Jack,17,True
+The baby cow cried at the farmer because he wanted milk.,he,41,The baby cow,0,True,the farmer,22,False
+The baby cow cried at the farmer because he had milk.,he,41,The baby cow,0,False,the farmer,22,True
+My teacher asked a student to make sentences because he was late to class.,he,53,My teacher,0,False,a student,17,True
+My teacher asked a student to make sentences because he wanted to see him write.,he,53,My teacher,0,True,a student,17,False
+The gym teachers trained the students because they wanted to teach them discipline.,they,46,The gym teachers,0,True,the students,25,False
+The gym teachers trained the students because they wanted to become better players.,they,46,The gym teachers,0,False,the students,25,True
+The Skyline drifts better than the F-150 because it is well balanced.,it,49,The Skyline,0,True,the F-150,31,False
+The Skyline drifts better than the F-150 because it is not meant to drift.,it,49,The Skyline,0,False,the F-150,31,True
+The city council granted a permit to the construction workers because they were well qualified.,they,70,The city council,0,False,the construction workers,37,True
+The city council granted a permit to the construction workers because they were elected to encourage business.,they,70,The city council,0,True,the construction workers,37,False
+"Rick Perry is doing stronger than Mitt Romney in the polls, but he is coming back as a strong candidate.",he,64,Rick Perry,0,False, Mitt Romney,33,False
+"Rick Perry is doing stronger than Mitt Romney in the polls, but he is confident to maintain the lead.",he,64,Rick Perry,0,True, Mitt Romney,33,False
+The Detroit Lions beat the Dallas Cowboys because they had more desire to win.,they,50,The Detroit Lions,0,True,the Dallas Cowboys,23,False
+The Detroit Lions beat the Dallas Cowboys because they were unprepared.,they,50,The Detroit Lions,0,False,the Dallas Cowboys,23,True
+James Cameron is more successful than Michael Bay because his movies sell more worldwide.,his,58,James Cameron,0,True,Michael Bay,38,False
+James Cameron is more successful than Michael Bay because his movies do not create as much hype.,his,58,James Cameron,0,False,Michael Bay,38,True
+Audrey Hepburn made more movies than Katherine Hepburn because she was pretty and talented.,she,63,Audrey Hepburn,0,True,Katherine Hepburn,37,False
+Audrey Hepburn made more movies than Katherine Hepburn because she was not as good at acting.,she,63,Audrey Hepburn,0,False,Katherine Hepburn,37,True
+The Penguins scored two goals against the Flyers in two minutes because they were not concentrating.,they,72,The Penguins,0,False,the Flyers,38,True
+The Penguins scored two goals against the Flyers in two minutes because they are more skilled.,they,72,The Penguins,0,True,the Flyers,38,False
+Taylor Swift is higher in record sales over Beyonce because more people can relate to her music.,her,86,Taylor Swift,0,True,Beyonce,44,False
+Taylor Swift is higher in record sales over Beyonce because people are not passionate about her music.,her,92,Taylor Swift,0,False,Beyonce,44,True
+Fox News is more popular in ratings than CNN since they are more interesting.,they,51,Fox News,0,True,CNN,41,False
+Fox News is more popular in ratings than CNN since they are boring.,they,51,Fox News,0,False,CNN,41,True
+The Autobots try to stop the Decepticons since they want the world to live in peace.,they,47,The Autobots,0,True,the Decepticons,25,False
+The Autobots try to stop the Decepticons since they want to destroy the world.,they,47,The Autobots,0,False,the Decepticons,25,True
+Californians are better than New Yorkers because they have Hollywood.,they,49,Californians,0,True,New Yorkers,29,False
+Californians are better than New Yorkers because they do not have Hollywood lots to produce movies.,they,49,Californians,0,False,New Yorkers,29,True
+The Mongolians attacked the Chinese because they are always eager for war.,they,44,The Mongolians,0,True,the Chinese,24,False
+The Mongolians attacked the Chinese because they are pacifists.,they,44,The Mongolians,0,False,the Chinese,24,True
+"Jupiter is bigger than the Earth, but it is lighter due to being mostly gas.",it,38,Jupiter,0,True,the Earth,23,False
+"Jupiter is bigger than the Earth, but it is heavier due to being solid.",it,38,Jupiter,0,False,the Earth,23,True
+Brick is better than clay for building houses because they are much stronger building materials.,they,54,Brick,0,True,clay,21,False
+Brick is better than clay for building houses because they become weak from water.,they,54,Brick,0,False,clay,21,True
+"The Dallas Cowboys are more successful as a franchise than the Saints because they are considered ""America's Team"".",they,78,The Dallas Cowboys,0,True,the Saints,59,False
+The Dallas Cowboys are more successful as a franchise than the Saints because they do not have the same amount of market value.,they,78,The Dallas Cowboys,0,False,the Saints,59,True
+The US government declared war on Iraq because they were responding to their attack on US soil.,they,47,The US government,0,True,Iraq,34,False
+The US government declared war on Iraq because they attacked on US soil.,they,47,The US government,0,False,Iraq,34,True
+The Home Owners Association denied the request by the Pittsburg family for a new shed since they failed to pay the annual fee.,they,92,The Home Owners Association,0,False,the Pittsburg family,50,True
+The Home Owners Association denied the request by the Pittsburg family for a new shed since they felt it would not be good for the community.,they,92,The Home Owners Association,0,True,the Pittsburg family,50,False
+Fleece feels better than cotton since they are much softer.,they,38,Fleece,0,True,cotton,25,False
+Fleece feels better than cotton since they are of worse quality.,they,38,Fleece,0,False,cotton,25,True
+"The Police feared allowing the protesters to organize, so they denied their ability to gather.",they,58,The Police,0,True,the protesters,27,False
+"The Police feared allowing the protesters to organize, but they decided to organize anyway.",they,59,The Police,0,False,the protesters,27,True
+The government revoked the ability for oil companies to drill in the United States since they are trying to protect the environment.,they,89,The government,0,True,oil companies,39,False
+The government revoked the ability for oil companies to drill in the United States since they are trying to drill for more oil reserves.,they,89,The government,0,False,oil companies,39,True
+The Military Police threw the army recruits in the brig since they were causing a distrubance in the neighboring town.,they,62,The Military Police,0,False,the army recruits,26,True
+The Military Police threw the army recruits in the brig since they were enforcing the rules of being in the army.,they,62,The Military Police,0,True,the army recruits,26,False
+Harvey Dent blames the Batman for losing his love because he did not save her.,he,58,Harvey Dent,0,False,the Batman,19,True
+Harvey Dent blames the Batman for losing his love because he was saved instead of his girlfriend.,he,58,Harvey Dent,0,True,the Batman,19,False
+"Intel performs better than AMD in the processing market, but they do not do as well in the graphics market.",they,61,Intel,0,True,AMD,27,False
+"Intel Performs better than AMD in the processing market, but they are more successful in the graphics market instead.",they,61,Intel,0,False,AMD,27,True
+"The football players went on strike against the NFL organization, but they will play again when their demands are met.",they,70,The football players,0,True,the NFL organization,44,False
+"The football players went on strike against the NFL organization, but they will consider their demands to send the strike.",they,70,The football players,0,False,the NFL organization,44,True
+Disney World offers a much wider array of rides than Six Flags since they have a much larger budget due to their merchandising.,they,69,Disney World,0,True,Six Flags,53,False
+Disney World offers a much wider array of rides than Six Flags since they are more limited on budget due to not having other sources of revenue.,they,69,Disney World,0,False,Six Flags,53,True
+South Korea does not like North Korea because they are constantly threatening their peace.,they,46,South Korea,0,False,North Korea,26,True
+South Korea does not like North Korea because they are always forced to defend their peace.,they,46,South Korea,0,True,North Korea,26,False
+The prosecutor viciously attacked the defendants since they are trying to convict them of the crime.,they,55,The prosecutor,0,True,the defendants,34,False
+The prosecutor viciously attacked the defendants since they are trying to convict their client of a crime.,they,55,The prosecutor,0,False,the defendants,34,True
+The ruling class treats the citizens poorly because they are superior.,they,52,The ruling class,0,True,the citizens,24,False
+The ruling class treats the citizens poorly because they are inferior.,they,52,The ruling class,0,False,the citizens,24,True
+"Bill Gates is similar to Steve Jobs, but he is the previous CEO of Microsoft.",he,41,Bill Gates,0,True,Steve Jobs,25,False
+"Bill Gates is similar to Steve Jobs, but he is the previous CEO of Apple.",he,41,Bill Gates,0,False,Steve Jobs,25,True
+"Bill Clinton speaks better than George Bush, since he is a practiced orator.",he,51,Bill Clinton,0,True,George Bush,32,False
+"Bill Clinton speaks better than George Bush, since he is not a practiced orator.",he,51,Bill Clinton,0,False,George Bush,32,True
+Federer consistently beat Nadal since he was the better tennis player.,he,38,Federer,0,True,Nadal,26,False
+Federer consistently beat Nadal since he was the worse tennis player.,he,38,Federer,0,False,Nadal,26,True
+"Internet Explorer believes they have less security holes than Firefox, but they conducted the tests themselves.",they,27,Internet Explorer,0,True,Firefox,62,False
+"Internet Explorer believes they have less security holes than Firefox, but they do not trust Microsoft's test results.",they,27,Internet Explorer,0,False,Firefox,62,True
+President Clinton pardoned Roger Clinton because he wanted to free his half-brother.,he,49,President Clinton,0,True,Roger Clinton,27,False
+President Clinton pardoned Roger Clinton because he was the president's half-brother.,he,49,President Clinton,0,False,Roger Clinton,27,True
+Sony recently locked 90000 users from their accounts because they had been been compromised.,they,61,Sony,0,False,90000 users,21,True
+Sony recently locked 90000 users from their accounts because they had hackers compromise their customer's information.,they,61,Sony,0,True,90000 users,21,False
+Harley hides from Dyna because she is afraid of her.,she,31,Harley,0,True,Dyna,18,False
+Harley hides from Dyna because she is scary.,she,31,Harley,0,False,Dyna,18,True
+Toyota has the luxury brand Lexus: they are built for the rich.,they,35,Lexus,28,True,Toyota,0,False
+"Toyota has the luxury brand Lexus, although they typically sell for the average consumer.",they,44,Lexus,28,False,Toyota,0,True
+"Batman constantly tries to arrest the Joker, but he is also a vigilante.",he,49,Batman,0,True,the Joker,34,False
+"Batman constantly tried to arrest the Joker, but he always manages to get out.",he,49,Batman,0,False,the Joker,34,True
+"Netflix recently split their DVD service to site Qwikster, but they quickly removed the move due to public backlash.",they,63,Netflix,0,True,Qwikster,49,False
+"Netflix recently split their DVD service to site Qwikster, but they had a short lived life for the site.",they,63,Netflix,0,False,Qwikster,49,True
+"Canada is bigger than the United Kingdom, but they do not have the population to back it up.",they,46,Canada,0,True,the United Kingdom,22,False
+"Canada is bigger than the United Kingdom, but they have a much larger population.",they,46,Canada,0,False,the United Kingdom,22,True
+Gamers are generally perceived as nerds compared to athletes since they are stereotypically anti-social.,they,67,Gamers,0,True,athletes,52,False
+Gamers are generally perceived as nerds compared to athletes since they are stereotypically social and in good shape.,they,67,Gamers,0,False,athletes,52,True
+"Ray William Johnson surpassed NigaHiga in Youtube subscribers, but he considers that being number two is still a huge achievement.",he,67,Ray William Johnson,0,False,NigaHiga,30,True
+"Ray William Johnson surpassed NigaHiga in Youtube subscribers, but he wants to increase the gap even more.",he,67,Ray William Johnson,0,True,NigaHiga,30,False
+The management provided bonuses to the employees since they wanted to keep their workers happy at the company.,they,55,The management,0,True,the employees,35,False
+The management provided bonuses to the employees since they need to be kept happy to stay productive.,they,55,The management,0,False,the employees,35,True
+The disease center quarantined the people since they were afraid of the outbreak spreading.,they,48,The disease center,0,True,the people,31,False
+The disease center quarantined the people because they may be infected.,they,50,The disease center,0,False,the people,31,True
+The security team locked the scientists inside the building because they had to keep confidential information inside.,they,68,The security team,0,True,the scientists,25,False
+The security team locked the scientists inside the building since they had access to confidential materials that need to be kept secret.,they,66,The security team,0,False,the scientists,25,True
+The FDA revoked the medical licenses of corrupt doctors since they enforce strict medical guidelines.,they,62,The FDA,0,True,corrupt doctors,40,False
+The FDA revoked the medical licenses of corrupt doctors because they have been improperly issuing drugs.,they,64,The FDA,0,False,corrupt doctors,40,True
+Christian Bale once lost his temper at the man holding his lighting because he has a short temper.,he,76,Christian Bale,0,True,the man,39,False
+"Christian Bale once lost his temper at the man holding his lighting, but he did not do anything that earned getting yelled at.",he,73,Christian Bale,0,False,the man,39,True
+Andrea threw a promotion party in honor of Lindsay since she recently got promoted.,she,57,Andrea,0,False,Lindsay,43,True
+Andrea threw a promotion party in honor of Lindsay because she wanted to do something special for her.,she,59,Andrea,0,True,Lindsay,43,False
+Michael Phelps was fined by Judge Louis because he was caught with illegal drugs.,he,48,Michael Phelps,0,True,Judge Louis,28,False
+Michael Phelps was fined by Judge Louis because he has to uphold federal law.,he,48,Michael Phelps,0,False,Judge Louis,28,True
+Lloyd traded his truck to Roger for his motorcycle since he wanted to have a truck.,he,57,Lloyd,0,False,Roger,26,True
+Lloyd traded his truck to Roger for his motorcycle since he preferred a small vehicle.,he,57,Lloyd,0,True,Roger,26,False
+The hotel staff tended to the royal family since they needed to keep them satisfied as occupants.,they,49,The hotel staff,0,True,the royal family,26,False
+"The hotel staff tended to the royal family, however, they felt the service was unsatisfactory.",they,53,The hotel staff,0,False,the royal family,26,True
+"Donald Trump fired his servant, Luigi, because he felt his service was below average.",he,47,Donald Trump,0,True,Luigi,32,False
+"Donald Trump fired his servant, Luigi, but he can find another job elsewhere.",he,43,Donald Trump,0,False,Luigi,32,True
+The teaching staff wanted to treat the students to a special lunch because they did so well on their standardized tests.,they,75,The teaching staff,0,False,the students,35,True
+The teaching staff wanted to treat the students to a special lunch but they did not have enough money in the budget.,they,71,The teaching staff,0,True,the students,35,False
+Some actors choose to perform their own stunts instead of using stunt doubles since they like to keep it as authentic as possible.,they,84,Some actors,0,True,stunt doubles,64,False
+Some actors choose to perform their own stunts instead of using stunt doubles although they are professionals who specialize in stunts.,they,87,Some actors,0,False,stunt doubles,64,True
+"Tatoo artists specialize in creating works of arts on their customers, because they are paid professionals in their field.",they,79,Tatoo artists,0,True,their customers,54,False
+"Tatoo artists specialize in creating works of arts on their customers, hence they are willing to pay well for these pieces of work.",they,77,Tatoo artists,0,False,their customers,54,True
+The drug cartel enlists the help of the local population to work their fields since they are considered cheap labor.,they,84,The drug cartel,0,False,the local population,36,True
+The drug cartel enlists the help of the local population to work their fields since they need cheap labor to maximize their profits.,they,84,The drug cartel,0,True,the local population,36,False
+"The Samurais respected honor while pirates have a disregard for honor, because they hold true to the policy of fighting with honor.",they,79,The Samurais,0,True,pirates,35,False
+"The Samurais respected honor while pirates have a disregard for honor, since they are only interested in increasing their wealth.",they,77,The Samurais,0,False,pirates,35,True
+JP Morgan Bank developed a mobile banking application which gives an edge over competitor Bank of America since they appeal well consumers who want accessible banking.,they,112,JP Morgan Bank,0,True,Bank of America,90,False
+"JP Morgan Bank developed a mobile banking application which gives an edge over competitor Bank of America, but they will probably develop their own mobile application soon as well.",they,111,JP Morgan Bank,0,False,Bank of America,90,True
+The Russian Syndicate decided to remove some of their lower members so they could keep their operations as secret as possible.,they,71,The Russian Syndicate,0,True,their lower members,48,False
+The Russian Syndicate decided to remove some of their lower members because they knew too much about their operations.,they,76,The Russian Syndicate,0,False,their lower members,48,True
+The SWAT team moved in on the compound to prevent the terrorists from launching a deadly missile because they wanted to preserve the lives of innocents.,they,105,The SWAT team,0,True,the terrorists,50,False
+The SWAT team moved in on the compound to prevent the terrorists from launching a deadly missile because they were trying to terrorize the global population.,they,105,The SWAT team,0,False,the terrorists,50,True
+"Speed boats need to pass strict tests for use while row boats have no guidelines, since they are more prone to mechanical failures due to their moving parts.",they,88,Speed boats,0,True,row boats,52,False
+Speed boats need to pass strict tests for use while row boats have no guidelines because they are powered by paddles instead of mechanical engines.,they,89,Speed boats,0,False,row boats,52,True
+"Jane Bingum presented strong evidence against Claire, so she would be able to win her case.",she,57,Jane Bingum,0,True,Claire,46,False
+"Jane Bingum presented strong evidence against Claire, but she may present a strong defense on her part.",she,58,Jane Bingum,0,False,Claire,46,True
+"Michael decided to freeze himself in cryo-stasis even though his father was against it, because he hopes to be unfrozen in the future when there is a cure available.",he,96,Michael,0,True,his father,61,False
+"Michael decided to freeze himself in cryo-stasis even though his father was against it, so he tried to convince him not to do it.",he,91,Michael,0,False,his father,61,True
+Trick Or Treaters are celebrating the holiday earlier during the day at Church since they are encouraged to do it during the day and among friends for safety reasons.,they,85,Trick Or Treaters,0,True,Church,72,False
+"Trick Or Treaters are celebrating the holiday earlier during the day at Church, but they cannot convince everybody to do it during the day.",they,84,Trick Or Treaters,0,False,Church,72,True
+Research studies recently revealed that Netflix consumes over 37 percent of the world's internet bandwidth since they need that much due to high demand of their streaming services.,they,113,Research studies,0,False,Netflix,40,True
+"Research studies recently revealed that Netflix consumes over 37 percent of the world's internet bandwidth, but they may not be entirely accurate now due to recent changes in Netflix subscribers.",they,112,Research studies,0,True,Netflix,40,False
+Captain Picard tends to confide in Commander Riker since he wants to ensure he develops into a fine captain one day.,he,57,Captain Picard,0,True,Commander Riker,35,False
+Captain Picard tends to confide in Commander Riker because he needs to soak up as much experience as he can.,he,59,Captain Picard,0,False,Commander Riker,35,True
+Data is an android who can learn new materials much faster than Acting Ensign Wesley since he has the ability to learn vasts amount of information quickly into his database.,he,91,Data,0,True,Acting Ensign Wesley,64,False
+"Data is an android who can learn new materials much faster than Acting Ensign Wesley, because he does not have an electronic brain to learn as quickly.",he,94,Data,0,False,Acting Ensign Wesley,64,True
+The Next Generation was well received by Trekkies because they stayed true to the roots established in the first Star Trek.,they,58,The Next Generation,0,True,Trekkies,41,False
+"The Next Generation was well received by Trekkies, but they will always perceive the first Star Trek to be the best.",they,55,The Next Generation,0,False,Trekkies,41,True
+Pei Wei sells sesame chicken as a signature dish since they have much demand for this particular dish.,they,55,Pei Wei,0,True,sesame chicken,14,False
+"Pei Wei sells sesame chicken as a signature dish, so they are constantly picked as an order.",they,53,Pei Wei,0,False,sesame chicken,14,True
+Lois was scolded by her daughter because she was accused of being a terrible mother.,she,41,Lois,0,True,her daughter,20,False
+"Lois was scolded by her daughter, so she thought about how she could be better.",she,37,Lois,0,False,her daughter,20,True
+"The priests quoted the words of the Bible for all the suspected witches they found, since they needed to quote holy words to rid the evil.",they,72,The priests,0,True,the suspected witches,50,False
+"The priests quoted the words of the Bible for all the suspected witches they found, since they feared the words of the Bible.",they,72,The priests,0,False,the suspected witches,50,True
+The victims of the Black Plague blamed the witches for causing the curse because they did not understand diseases at the time.,they,81,The victims of the Black Plague,0,True,the witches,39,False
+"The victims of the Black Plague blamed the witches for causing the curse, but they were falsely accused.",they,78,The victims of the Black Plague,0,False,the witches,39,True
+"Two deserted crusaders agreed to transport a girl for the priests, but they agreed in exchange for being pardoned.",they,71,Two deserted crusaders,0,True,the priests,54,False
+"Two deserted crusaders agreed to transport a girl for the priests, since they needed more fellow priests to assist in removing the evil from her.",they,73,Two deserted crusaders,0,False,the priests,54,True
+The alter boy assisted Knight Mordron in his mission because he hopes he will get knighted afterwards.,he,61,The alter boy,0,True,Knight Mordron,23,False
+"The alter boy assisted Knight Mordron in his mission, but he did not want his help.",he,58,The alter boy,0,False,Knight Mordron,23,True
+King James eagerly awaited the arrival of Prince Henry because he was expected to propose to his daughter.,he,63,King James,0,False,Prince Henry,42,True
+King James eagerly awaited the arrival of Prince Henry so he prepared many celebrations to welcome him.,he,58,King James,0,True,Prince Henry,42,False
+Crusader Andrews saved the life of Crusader Christopher because he did not want to see him die.,he,64,Crusader Andrews,0,True,Crusader Christopher,35,False
+"Crusader Andrews saved the life of Crusader Christopher, so he thanked him personally with his sword afterwards.",he,60,Crusader Andrews,0,False,Crusader Christopher,35,True
+The blacksmith refused to repair the armor for the knight because he only does work if paid upfront.,he,66,The blacksmith,0,True,the knight,47,False
+The blacksmith refused to repair the armor for the knight because he did not have any money to pay with.,he,66,The blacksmith,0,False,the knight,47,True
+The Eagles managed to completely dominate the Cowboys this weekend since they were much stronger in handling the ball.,they,73,The Eagles,0,True,the Cowboys,42,False
+"The Eagles managed to completely dominate the Cowboys this weekend, but they were able to at least keep it from being a shutout.",they,72,The Eagles,0,False,the Cowboys,42,True
+Mel got in trouble with a collector named Bohr because he lost a huge sum of money due to his gambling habit.,he,55,Mel,0,True,a collector named Bohr,24,False
+"Mel got in trouble with a collector named Bohr, so he tracked him down to try to collect all the owed money.",he,51,Mel,0,False,a collector named Bohr,24,True
+"AMD recently managed to break a record in the New Guiness Book of Records, because they managed to overclock their processor to unheard heights.",they,83,AMD,0,True,the New Guiness Book of Records,42,False
+"AMD recently managed to break a record in the New Guiness Book of Records, so they immortalized them in their record keeping.",they,78,AMD,0,False,the New Guiness Book of Records,42,True
+"The U.S.S Enterprise tried to assist a sister ship, but they arrived too late to save them.",they,56,The U.S.S Enterprise,0,True,a sister ship,37,False
+"The U.S.S Enterprise tried to assist a sister ship, but they did not receive help quick enough to prevent their demise.",they,56,The U.S.S Enterprise,0,False,a sister ship,37,True
+"The Prince of Wales knighted William, so he gave his son the accolade with a sword.",he,41,The Prince of Wales,0,True,William,29,False
+The Prince of Wales knighted William because he could not compete in the tournament without being of nobility.,he,45,The Prince of Wales,0,False,William,29,True
+Ryan Higa sometimes guest stars in videos for Kev Jumbo because he wants his friend's videos to succeed as well.,he,64,Ryan Higa,0,True,Kev Jumbo,46,False
+Ryan Higa sometimes guest stars in videos for Kev Jumbo so he is beginning to gather a bigger following due to his friend's help.,he,59,Ryan Higa,0,False,Kev Jumbo,46,True
+Planet 343's sandstorm forces the inhabitants underground because they have winds of upwards to 50 mph.,they,66,Planet 343's sandstorm,0,True,the inhabitants,30,False
+"Planet 343's sandstorm forces the inhabitants underground, but they have plenty of food sources stored away.",they,63,Planet 343's sandstorm,0,False,the inhabitants,30,True
+The Marines are considerably afraid of the aliens because they are known to hunt down humans.,they,58,The Marines,0,False,the aliens,39,True
+"The Marines are considerably afraid of the aliens, but they will still use their discipline to overcome their fears.",they,55,The Marines,0,True,the aliens,39,False
+The children learned how to kill poisonous snakes from the adults since they have experience surviving in the outdoors.,they,72,The children,0,False,the adults,55,True
+The children learned how to kill poisonous snakes from the adults so they can also survive in the wild by themselves.,they,69,The children,0,True,the adults,55,False
+The public school board of educators initiated a physical education plan on the students since they scored so low on the health and fitness standardized test.,they,95,The public school board of educators,0,False,the students,76,True
+The public school board of educators initiated a physical education plan on the students so that they could help them become healthy again.,they,97,The public school board of educators,0,True,the students,76,False
+Range Rover recently revealed their new lineup of cars at Times Square for thousands of New Yorkers since they are advertising their new high end models.,they,106,Range Rover,0,True,thousands of New Yorkers,75,False
+Range Rover recently revealed their new lineup of cars at Times Square for thousands of New Yorkers so they would be enticed to purchase their cars.,they,103,Range Rover,0,False,thousands of New Yorkers,75,True
+Raiden could not follow and guide Liu Kang in the world of darkness since he could not enter this realm without breaking the rules.,he,74,Raiden,0,True,Liu Kang,34,False
+"Raiden could not follow and guide Liu Kang in the world of darkness, but he will be able to find another guide instead.",he,73,Raiden,0,False,Liu Kang,34,True
+Banks usually offer bonus points for new credit card applicants since they want them to specifically bank with them.,they,70,Banks,0,True,new credit card applicants,37,False
+Banks usually offer bonus points for new credit card applicants because they are often enticed by free offerings.,they,72,Banks,0,False,new credit card applicants,37,True
+"Hair Stylists transformed the Cowboy's Cheerleaders into beauties, since they need to look top notch for the game.",they,73,Hair Stylists,0,False,the Cowboy's Cheerleaders,26,True
+"Hair Stylists transformed the Cowboy's Cheerleaders into beauties, so they put much product into their hair.",they,70,Hair Stylists,0,True,the Cowboy's Cheerleaders,26,False
+The patrons enjoyed the food made by the chefs immensely because they made the food with exquisite sauces.,they,65,The patrons,0,False,the chefs,37,True
+"The patrons enjoyed the food made by the chefs immensely, so they paid very well to enjoy this meal.",they,61,The patrons,0,True,the chefs,37,False
+"Beowulf arrived to slay Grendell for the kingdom, so he and his men went out to the caves to locate him.",he,53,Beowulf,0,True,Grendell,24,False
+"Beowulf arrived to slay Grendell for the kingdom, but he is very difficult to slay due to his demon magic.",he,54,Beowulf,0,False,Grendell,24,True
+Paypal has to settle millions of disputes every year by disgruntled users since they are sometimes a victim of fraud from purchasing through the internet.,they,80,Paypal,0,False,disgruntled users,56,True
+Paypal has to settle millions of disputes every year by disgruntled users because they provide a transaction protection policy.,they,82,Paypal,0,True,disgruntled users,56,False
+The slaves were forced to do the bidding of the nobles since they have no rights.,they,61,The slaves,0,True,the nobles,44,False
+The slaves were forced to do the bidding of the nobles so they do not have to do any of the hard labor.,they,58,The slaves,0,False,the nobles,44,True
+"Scientists have created a serum which transforms men into super soldiers, because they needed to create an unstoppable army.",they,82,Scientists,0,True,men,49,False
+"Scientists have created a serum which transforms men into super soldiers, but they may experience side effects.",they,78,Scientists,0,False,men,49,True
+The prisoners were held captive by the German forces since they were captured in the last battle.,they,59,The prisoners,0,True,the German forces,35,False
+The prisoners were held captive by the German forces since they needed to gather intelligence from them.,they,59,The prisoners,0,False,the German forces,35,True
+"Captain America lost a good friend, Michael, because he could not catch him before falling.",he,53,Captain America,0,True,Michael,36,False
+"Captain America lost a good friend, Michael, because he was killed in an accident.",he,53,Captain America,0,False,Michael,36,True
+Neil Armstrong was actually sent on a secret mission assigned by President Kennedy to investigate an abnormal event because he needed the US to beat Russia there.,he,124,Neil Armstrong,0,False,President Kennedy,65,True
+Neil Armstrong was actually sent on a secret mission assigned by President Kennedy to investigate an abnormal event so he was trained on what exactly he needed to do.,he,119,Neil Armstrong,0,True,President Kennedy,65,False
+The CIA control intelligence gathering for the United States because they have some of the best people who specialize in this type of work.,they,69,The CIA,0,True,the United States,43,False
+The CIA control intelligence gathering for the United States since they need to stay one step ahead of others to remain a superpower.,they,67,The CIA,0,False,the United States,43,True
+"Sentinel tried to betray Optimus by enslaving the human race, but he did not succeed in his plan.",he,66,Sentinel,0,True,Optimus,25,False
+Sentinel tried to betray Optimus by enslaving the human race because he wanted the humans to rule again.,he,69,Sentinel,0,False,Optimus,25,True
+Amazon prime encourages Netflix users to switch because they offer a lower cost and additional benefits program.,they,56,Amazon prime,0,True,Netflix,24,False
+Amazon prime encourages Netflix users to switch since they overcharge their users now.,they,54,Amazon prime,0,False,Netflix,24,True
+Dell replaced all their Blackberry phones with their own because they lost confidence in their brand due to to recent network outage.,they,65,Dell,0,True,their Blackberry phones,18,False
+"Dell replaced all their Blackberry phones with their own, but they are still prominent on other vendor sites.",they,62,Dell,0,False,their Blackberry phones,18,True
+Malware has increased over four hundred percent on the Android platform because they are a free platform which allows any developer to post their applications.,they,80,Malware,0,False,the Android platform,51,True
+Malware has increased over four hundred percent on the Android platform since they do not need to get vetted to be uploaded.,they,78,Malware,0,True,the Android platform,51,False
+Some Motorcycle enthusiasts are selling a TRON lightcycle to TRON fans because they specialize in making movie related vehicles.,they,79,Some Motorcycle enthusiasts,0,True,TRON fans,61,False
+"Some Motorcycle enthusiasts are selling a TRON lightcycle to TRON fans, but they may be turned off by the asking price.",they,76,Some Motorcycle enthusiasts,0,False,TRON fans,61,True
+The board of directors reviewed the findings of the scientists to determine funding because they are interested in the potential profits for the company.,they,92,The board of directors,0,True,the scientists,48,False
+"The board of directors reviewed the findings of the scientists to determine funding, so they need to present their findings in a way that can attract more money.",they,88,The board of directors,0,False,the scientists,48,True
+Some fan girls created a rap about Windows phones because they are in love with their new electronics.,they,58,Some fan girls,0,True,Windows phones,35,False
+"Some fan girls created a rap about Windows phones, but they did not become more popular.",they,55,Some fan girls,0,False,Windows phones,35,True
+Some enthusiastic Black Friday shoppers are already lining up at retail stores so they can be the first in line for door busters.,they,82,Some enthusiastic Black Friday shoppers,0,True,retail stores,65,False
+Some enthusiastic Black Friday shoppers are already lining up at retail stores because they have some really low priced items that will be on sale.,they,87,Some enthusiastic Black Friday shoppers,0,False,retail stores,65,True
+The campus police pepper sprayed the UC Davis students because they were blocking private property.,they,63,The campus police,0,False,the UC Davis students,33,True
+"The campus police pepper sprayed the UC Davis students, so they faced an angry backlash by those who do not agree with their actions.",they,59,The campus police,0,True,the UC Davis students,33,False
+"Apple was in talks with Verizon to be their dedicated phone provider initially, but they gave the deal to AT&T in the end.",they,84,Apple,0,True,Verizon,24,False
+Apple was in talks with Verizon to be their dedicated phone provider initially because they were a prime candidate to provide their service.,they,87,Apple,0,False,Verizon,24,True
+Parents care for their children considerably because they love them undeniably to want to keep them save.,they,53,Parents,0,True,their children,17,False
+Parents care for their children considerably since they are their pride and joy.,they,51,Parents,0,False,their children,17,True
+Cats are more territorial than dogs since they always try and insert their dominance over others.,they,42,Cats,0,True,dogs,31,False
+"Cats are more territorial than dogs, but they can also be territorial at times when marking their territory.",they,41,Cats,0,False,dogs,31,True
+Kung Fu teachers try to pass on discipline to their disciples since they want them to learn more than just technique.,they,68,Kung Fu teachers,0,True,their disciples,46,False
+"Kung Fu teachers try to pass on discipline to their disciples, but they do not always learn what they are being taught very well.",they,67,Kung Fu teachers,0,False,their disciples,46,True
+Mark tried to sabotage Tom because he wants to be employee of the month.,he,35,Mark,0,True,Tom,23,False
+"Mark tried to sabotage Tom, but he got caught in the process.",he,32,Mark,0,False,Tom,23,True
+The Walking Dead is proving to be a big hit among zombie enthusiasts because they have made a series that greatly appeals to them.,they,77,The Walking Dead,0,True,zombie enthusiasts,50,False
+The Walking Dead is proving to be a big hit among zombie enthusiasts so they are watching the show every week.,they,72,The Walking Dead,0,False,zombie enthusiasts,50,True
+"Guns generally increase in value over time to gun collectors if unfired, because they need to be in mint condition to be extremely valuable.",they,81,Guns,0,True,gun collectors,46,False
+"Guns generally increase in value over time to gun collectors if unfired, since they prefer to collect things that are in perfect condition.",they,79,Guns,0,False,gun collectors,46,True
+"Jim hunted the monster, because he was scary.",he,32,Jim,0,False,the monster,11,True
+"Jim hunted the monster, although he was afraid of him.",he,33,Jim,0,True,the monster,11,False
+"Arnold Schwarzenegger cannot terminate John Conner, because he is protecting him.",he,60,Arnold Schwarzenegger,0,True,John Conner,39,False
+"Arnold Schwarzenegger cannot terminate John Conner, because he is the leader of the resistance.",he,60,Arnold Schwarzenegger,0,False,John Conner,39,True
+"Jim likes John, but he does not like him back.",he,20,Jim,0,False,John,10,True
+"Jim likes John, but he is not liked back.",he,20,Jim,0,True,John,10,False
+"The skeleton was scarier than the pumpkin, because it looked like it was walking.",it,51,The skeleton,0,True,the pumpkin,30,False
+"The skeleton was scarier than the pumpkin, because it was rather simplistic and orange.",it,51,The skeleton,0,False,the pumpkin,30,True
+"Schrodinger's cat walks into an empty building, but where is it now?",it,61,Schrodinger's cat,0,True,an empty building,29,False
+"Schrodinger's cat walks into an empty building, but does it contain him?",it,57,Schrodinger's cat,0,False,an empty building,29,True
+"Bob kicked Larry, because he was mad.",he,26,Bob,0,True,Larry,11,False
+"Bob kicked Larry, because he made a condescending comment.",he,26,Bob,0,False,Larry,11,True
+"The program deleted the reference to the data, but it did not delete it.",it,51,The program,0,True,the data,37,False
+"The program deleted the reference to the data, but it was not deleted.",it,51,The program,0,False,the data,37,True
+"The criminal shocked John, because he pulled out a gun.",he,35,The criminal,0,True,John,21,False
+"The criminal shocked John, because he was not expecting it.",he,35,The criminal,0,False,John,21,True
+"A banana and an apple go walking, when the yellow one does the talking.",one,50,A banana,0,True,an apple,13,False
+"A banana and an apple go walking, when the red one does the talking.",one,47,A banana,0,False,an apple,13,True
+"The employer offered Katie a job, because she was a fit for the company.",she,42,The employer,0,False,Katie,21,True
+"The employer offered Katie a job, because she liked the interviewee.",she,42,The employer,0,True,Katie,21,False
+"Jim was delighted to see Jack, because he brightened up his day.",he,39,Jim,0,False,Jack,25,True
+"Jim was delighted to see Jack, because he was given the strength to finish his day.",he,39,Jim,0,True,Jack,25,False
+He likes Cuba and hates Japan because it is a communist country.,it,38,Cuba,9,True,Japan,24,False
+He likes Cuba and hates Japan because it is not a communist country.,it,38,Cuba,9,False,Japan,24,True
+Saudi Arabians do not respect the Bangladeshis because they are poor.,they,55,Saudi Arabians,0,False,Bangladeshis,34,True
+Saudi Arabians do not respect the Bangladeshis because they are rich.,they,55,Saudi Arabians,0,True,Bangladeshis,34,False

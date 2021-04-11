@@ -1,0 +1,283 @@
+Text,Pronoun,Pronoun-offset,A,A-offset,A-coref,B,B-offset,B-coref
+The sniper shot the terrorist because he was a bad guy.,he,38,The sniper,0,False,the terrorist,16,True
+The sniper shot the terrorist because he had orders.,he,38,The sniper,0,True,the terrorist,16,False
+The chimpanzee could not use Linux because it was an animal.,it,43,The chimpanzee,0,True,Linux,29,False
+The chimpanzee could not use Linux because it uses different commands than Windows.,it,43,The chimpanzee,0,False,Linux,29,True
+Bill punched Bob in the face because he was being rude to Mary.,he,37,Bill,0,False,Bob,13,True
+Bill punched Bob in the face because he wanted to protect Mary.,he,37,Bill,0,True,Bob,13,False
+"Carl borrowed a book from Richard, but the book was never returned to him.",him,70,Carl,0,False,Richard,26,True
+"Carl borrowed a book from Richard, but the book was unreadable to him.",him,66,Carl,0,True,Richard,26,False
+Bill likes to play with Bob because he loves playing.,he,36,Bill,0,True,Bob,24,False
+Bill likes to play with Bob but he did not want to.,he,32,Bill,0,False,Bob,24,True
+The salesperson told Dave that this would be the best car he ever bought.,he,58,The salesperson,0,False,Dave,21,True
+The salesperson told Dave that this would be the best car he ever sold.,he,58,The salesperson,0,True,Dave,21,False
+The student wanted to ask the professor for help but decided not to because he was too scared.,he,76,The student,0,True,the professor,26,False
+The student wanted to ask the professor for help but decided not to because he was too intimidating.,he,76,The student,0,False,the professor,26,True
+The student couldn't understand the teacher because he had an accent.,he,52,The student,0,False,the teacher,32,True
+The student couldn't understand the teacher because he wasn't paying attention.,he,52,The student,0,True,the teacher,32,False
+The campers turned on their flashlights because it was dark without them.,them,68,The campers,0,False,their flashlights,22,True
+The campers turned on their flashlights because the darkness scared them.,them,68,The campers,0,True,their flashlights,22,False
+Francis stopped and looked at the penguin because he was intrigued.,he,50,Francis,0,True,the penguin,30,False
+Francis stopped and looked at the penguin because he was cute.,he,50,Francis,0,False,the penguin,30,True
+The off-campus apartments were preferred to the on-campus apartments because they were cheaper.,they,77,The off-campus apartments,0,True,the on-campus apartments,44,False
+The off-campus apartments were preferred to the on-campus apartments because they were more expensive.,they,77,The off-campus apartments,0,False,the on-campus apartments,44,True
+The general fired his pistol at the monster so he could be a distraction.,he,47,The general,0,True,the monster,32,False
+The general fired his pistol at the monster so he turned and looked.,he,47,The general,0,False,the monster,32,True
+Liverpool lost to Manchester United because they had been mismanaged all season.,they,44,Liverpool,0,True,Manchester United,18,False
+Liverpool lost to Manchester United because they were a superior team.,they,44,Liverpool,0,False,Manchester United,18,True
+"Rice beat Texas, even though they were a smaller school.",they,29,Rice,0,True,Texas,10,False
+"Rice beat Texas, even though they were the best team in the nation.",they,29,Rice,0,False,Texas,10,True
+The state executes prisoners because they want justice.,they,37,The state,0,True,prisoners,19,False
+The state executes prisoners because they were convicted of heinous crimes.,they,37,The state,0,False,prisoners,19,True
+"Jason built Rocky a robot, and he gave it to him.",he,31,Jason,0,True,Rocky,12,False
+"Jason built Rocky a robot, so he had more free time.",he,30,Jason,0,False,Rocky,12,True
+My heart pumps blood because it is liquid.,it,29,My heart,0,False,blood,15,True
+My heart pumps blood because it is a muscle.,it,29,My heart,0,True,blood,15,False
+Joe smells better than Adam since he showers regularly.,he,34,Joe,0,True,Adam,23,False
+Joe smells better than Adam since he hardly ever showers.,he,34,Joe,0,False,Adam,23,True
+The pen is mightier than the sword because it can only stab things.,it,43,The pen,0,False,the sword,25,True
+The pen is mightier than the sword because it can be used to write world-changing documents.,it,43,The pen,0,True,the sword,25,False
+The cats attacked the humans because they were feral.,they,37,The cats,0,True,the humans,18,False
+The cats attacked the humans because they smelled like fish.,they,37,The cats,0,False,the humans,18,True
+Bob can beat Larry at arm wrestling because he has more muscles.,he,44,Bob,0,True,Larry,13,False
+Bob can beat Larry at arm wrestling because he is a toddler.,he,44,Bob,0,False,Larry,13,True
+Donald kicked King but he never cried.,he,23,Donald,0,False,King,14,True
+Donald kicked King but he never felt bad.,he,23,Donald,0,True,King,14,False
+Steve went to the meeting with John because he was asked to.,he,44,Steve,0,True,John,31,False
+Steve went to the meeting with John because he asked him to.,he,44,Steve,0,False,John,31,True
+Mary gave Sandy her book because she needed it.,she,33,Mary,0,False,Sandy,10,True
+Mary gave Sandy her book because she is generous.,she,33,Mary,0,True,Sandy,10,False
+John visited Luke in the hospital because he was sick.,he,42,John,0,False,Luke,13,True
+John visited Luke in the hospital because he lived close by.,he,42,John,0,True,Luke,13,False
+John hired Bill because he needed someone.,he,24,John,0,True,Bill,11,False
+John fired Bill because he was incompetent.,he,24,John,0,False,Bill,11,True
+John introduced Bill because he knew everyone.,he,29,John,0,True,Bill,16,False
+John introduced Bill because he was new.,he,29,John,0,False,Bill,16,True
+John shot Bill and he was jailed.,he,19,John,0,True,Bill,10,False
+John shot Bill and he died.,he,19,John,0,False,Bill,10,True
+"The Mad Hatter tried to offer a cup of tea to the March Hare, but his hat was too distracting.",his,66,The Mad Hatter,0,True,the March Hare,46,False
+"The Mad Hatter tried to offer a cup of tea to the March Hare, but his long ears were too distracting.",his,66,The Mad Hatter,0,False,the March Hare,46,True
+Richard blackmailed Senator Carson so that his silence would be secured.,his,43,Richard,0,False,Senator Carson,20,True
+Richard blackmailed Senator Carson so that his rise to power would be secured.,his,43,Richard,0,True,Senator Carson,20,False
+"Tradition dictated the captain hold the Stanley Cup first, and it was pretty.",it,63,Tradition,0,False,the Stanley Cup,36,True
+"Tradition dictated the captain hold the Stanley Cup first, and it is always followed.",it,63,Tradition,0,True,the Stanley Cup,36,False
+The bat hit the ball because it was designed to hit.,it,29,The bat,0,True,the ball,12,False
+The bat hit the ball because it was designed to be hit.,it,29,The bat,0,False,the ball,12,True
+The program could successfully parse the file because it was programmed well.,it,54,The program,0,True,the file,37,False
+The program could successfully parse the file because it was formatted well.,it,54,The program,0,False,the file,37,True
+The article about the fires said that they torched most of Seattle.,they,38,The article,0,False,the fires,18,True
+The article about the fires said that they would research the situation further.,they,38,The article,0,True,the fires,18,False
+The winners were given the awards after they won.,they,40,The winners,0,True,the awards,23,False
+The winners were given the awards after they were made.,they,40,The winners,0,False,the awards,23,True
+The man jumped on the neighbor's pool and he swam.,he,42,The man,0,True,the neighbor,18,False
+The man jumped on the neighbor's pool and he stared.,he,42,The man,0,False,the neighbor,18,True
+"The team shredded the report, so that it could rewrite a new one.",it,38,The team,0,True,the report,18,False
+"The team shredded the report, so that it could be rewritten.",it,38,The team,0,False,the report,18,True
+Bob asked Tom if he could take him to the movies.,he,17,Bob,0,True,Tom,10,False
+Bob asked Tom if he could lend some money.,he,17,Bob,0,False,Tom,10,True
+Homer punched Flanders because he was being annoying.,he,31,Homer,0,False,Flanders,14,True
+Homer punched Flanders because he was asked to.,he,31,Homer,0,True,Flanders,14,False
+Nelson punched Milhouse but he was not hurt.,he,28,Nelson,0,False,Milhouse,15,True
+Nelson punched Milhouse but he was not caught.,he,28,Nelson,0,True,Milhouse,15,False
+The mermaid swam toward Sue and made her gasp.,her,37,The mermaid,0,False,Sue,24,True
+The mermaid swam toward Sue and waved her tail.,her,38,The mermaid,0,True,Sue,24,False
+The mother bear attacked Karen because she had gotten too close to her cub.,she,39,The mother bear,0,False,Karen,25,True
+The mother bear attacked Karen because she was worried for her cub.,she,39,The mother bear,0,True,Karen,25,False
+"Mary smiled at Susan, but she did not smile back.",she,26,Mary,0,False,Susan,15,True
+"Mary smiled at Susan, but she was not happy to see her.",she,26,Mary,0,True,Susan,15,False
+The leech latched onto the hippo so that it could enjoy the sunshine.,it,41,The leech,0,False,the hippo,23,True
+The leech latched onto the hippo because it was hungry.,it,41,The leech,0,True,the hippo,23,False
+The people protested the government because they were hungry.,they,44,The people,0,True,the government,21,False
+The people protested the government because they were raising taxes.,they,44,The people,0,False,the government,21,True
+I drank the beer with a lime because it was cold.,it,37,the beer,8,True,a lime,22,False
+I drank the beer with a lime because it was sour.,it,37,the beer,8,False,a lime,22,True
+The employer talked to the employee about being loyal to him.,him,57,The employer,0,True,the employee,23,False
+The employer talked to the employee about firing him.,him,49,The employer,0,False,the employee,23,True
+A chicken pecked at a bug and it ate it.,it,30,A chicken,0,True,a bug,20,False
+A chicken pecked at a bug and it ran away.,it,30,A chicken,0,False,a bug,20,True
+The dogs hate the fleas because they suck blood.,they,32,The dogs,0,False,the fleas,14,True
+The dogs hate the fleas because they hate bugs.,they,32,The dogs,0,True,the fleas,14,False
+Steven Seagal challenged Jean Claude Van Damme to a fight because he wanted to prove he was the stronger man.,he,66,Steven Seagal,0,True,Jean Claude Van Damme,25,False
+Steven Seagal challenged Jean Claude Van Damme to a fight because he is a worthy opponent.,he,66,Steven Seagal,0,False,Jean Claude Van Damme,25,True
+Girls like puppies because they are adorable.,they,27,Girls,0,False,puppies,11,True
+Girls like puppies because they like adorable things.,they,27,Girls,0,True,puppies,11,False
+Jack got more votes than John because the people liked him.,him,55,Jack,0,True,John,25,False
+Jack got more votes than John because the people did not like him.,him,62,Jack,0,False,John,25,True
+The car passed the truck because it was going too slow.,it,33,The car,0,False,the truck,15,True
+The car passed the truck because it needed to go faster.,it,33,The car,0,True,the truck,15,False
+My phone is working better than your phone because it is a newer model.,it,51,My phone,0,True,your phone,32,False
+My phone is working better than your phone because it is broken.,it,51,My phone,0,False,your phone,32,True
+Raja wanted Rena to take the job because he would be a good candidate.,he,41,Raja,0,False,Rena,12,True
+Raja wanted Rena to take the job because he wanted to leave.,he,41,Raja,0,True,Rena,12,False
+"Sheila tried to repair the old jalopy, even though she had not run in three decades.",she,51,Sheila,0,False,the old jalopy,23,True
+"Sheila tried to repair the old jalopy, even though she had not worked on cars in three decades.",she,51,Sheila,0,True,the old jalopy,23,False
+The ghost entered the house because it was haunting.,it,36,The ghost,0,True,the house,18,False
+The ghost entered the house because it was haunted.,it,36,The ghost,0,False,the house,18,True
+The boy escaped the cop but he continued to flee.,he,28,The boy,0,True,the cop,16,False
+The boy escaped the cop but he continued to search.,he,28,The boy,0,False,the cop,16,True
+The needle punctured the skin but it failed to register pain.,it,34,The needle,0,False,the skin,21,True
+The needle punctured the skin but it failed to administer pain.,it,34,The needle,0,True,the skin,21,False
+The lion saw the fish and it pounced.,it,26,The lion,0,True,the fish,13,False
+The lion saw the fish and it was swimming.,it,26,The lion,0,False,the fish,13,True
+The clown smiled at the child and he cried.,he,34,The clown,0,False,the child,20,True
+The clown smiled at the child and he offered him a balloon.,he,34,The clown,0,True,the child,20,False
+The scientists gave the chimps some bananas because they were hungry.,they,52,the chimps,20,True,some bananas,31,False
+The scientists gave the chimps some bananas because they were ripe.,they,52,the chimps,20,False,some bananas,31,True
+The boss fired the worker when he stopped performing well.,he,31,The boss,0,False,the worker,15,True
+The boss fired the worker when he called him into the office.,he,31,The boss,0,True,the worker,15,False
+The outlet powered the lamp when it had electricity.,it,33,The outlet,0,True,the lamp,19,False
+The outlet powered the lamp when it was plugged in.,it,33,The outlet,0,False,the lamp,19,True
+The paintball player was mad at the referee because he missed a call.,he,52,The paintball player,0,False,the referee,32,True
+The paintball player was mad at the referee because he was called out but shouldn't.,he,52,The paintball player,0,True,the referee,32,False
+The network heads cancelled the TV shows because they were not doing well.,they,49,The network heads,0,False,the TV shows,28,True
+The network heads cancelled the TV shows because they did not like the content.,they,49,The network heads,0,True,the TV shows,28,False
+The cheetah outran the antelope so it got to eat.,it,35,The cheetah,0,True,the antelope,19,False
+The cheetah outran the antelope so it got eaten.,it,35,The cheetah,0,False,the antelope,19,True
+The keys typed the words because they were meant to be typed.,they,33,The keys,0,False,the words,15,True
+The keys typed the words because they were meant to be typed on.,they,33,The keys,0,True,the words,15,False
+The racquetball players were annoyed by the other students in the activity center because they were using the racquetball courts to play badminton.,they,90,The racquetball players,0,False,the other students,40,True
+The racquetball players were annoyed by the other students in the activity center because they wanted to play and couldn't.,they,90,The racquetball players,0,True,the other students,40,False
+The teachers scolded the students because they would not learn the material.,they,42,The teachers,0,False,the students,21,True
+The teachers scolded the students because they were the authority figures.,they,42,The teachers,0,True,the students,21,False
+The plane was in the sky and it was fast.,it,29,The plane,0,True,the sky,17,False
+The plane was in the sky and it was cloudy.,it,29,The plane,0,False,the sky,17,True
+Joe crashed into Mike and he had to pay for the damage.,he,26,Joe,0,False,Mike,17,True
+Joe crashed into Mike because he needed a place to sleep.,he,30,Joe,0,True,Mike,17,False
+The man shot his friend and he died.,he,28,The man,0,False,his friend,13,True
+The man shot his friend and he was arrested.,he,28,The man,0,True,his friend,13,False
+The man killed the boss because he hated the job.,he,32,The man,0,True,the boss,15,False
+The man killed the boss because he fired him.,he,32,The man,0,False,the boss,15,True
+Joe raced against Steven because he thought it would be easy.,he,33,Joe,0,True,Steven,18,False
+Joe raced against Steven because he would not say no.,he,33,Joe,0,False,Steven,18,True
+The light hit the mirror and it reflected.,it,29,The light,0,True,the mirror,14,False
+The light hit the mirror and it shattered.,it,29,The light,0,False,the mirror,14,True
+Google Plus is expected to be a replacement for Facebook but it still does not have enough active users.,it,61,Google Plus,0,True,Facebook,48,False
+Google Plus is expected to be a replacement for Facebook but it still has a lot more active users.,it,61,Google Plus,0,False,Facebook,48,True
+The spear easily pierced through the armor because it was too sharp.,it,51,The spear,0,True,the armor,33,False
+The spear easily pierced through the armor because it was too thin.,it,51,The spear,0,False,the armor,33,True
+The cat caught the mouse because it was clever.,it,33,The cat,0,True,the mouse,15,False
+The cat caught the mouse because it was careless.,it,33,The cat,0,False,the mouse,15,True
+"Joseph did not defeat William in the match, so he paid $100.",he,47,Joseph,0,True,William,22,False
+"Joseph did not defeat William in the match, so he earned $100.",he,47,Joseph,0,False,William,22,True
+"Adam failed to kill Alexander, so he hired a bodygaurd in case of a second attempt.",he,34,Adam,0,False,Alexander,20,True
+"Adam failed to kill Alexander, so he hired an assassin for the second attempt.",he,34,Adam,0,True,Alexander,20,False
+"The bowl had a crack, so it was filled in.",it,25,The bowl,0,False,a crack,13,True
+"The bowl had a crack, so it was thrown away.",it,25,The bowl,0,True,a crack,13,False
+The student told the instructor that he was sick.,he,37,The student,0,True,the instructor,17,False
+The student told the instructor that he talked fast.,he,37,The student,0,False,the instructor,17,True
+Joe put Bob in the time machine and he went to the future.,he,36,Joe,0,False,Bob,8,True
+Joe put Bob in the time machine and he created another one.,he,36,Joe,0,True,Bob,8,False
+Bill asked Joe if he could borrow some money.,he,18,Bill,0,True,Joe,11,False
+Bill asked Joe if he had any money.,he,18,Bill,0,False,Joe,11,True
+The chef held the waiter so that he would not flee.,he,33,The chef,0,False,the waiter,14,True
+The chef held the waiter so that he did not fall off.,he,33,The chef,0,True,the waiter,14,False
+Tony helped Jeff because he wanted to help.,he,25,Tony,0,True,Jeff,12,False
+Tony helped Jeff because he needed help.,he,25,Tony,0,False,Jeff,12,True
+The cat was afraid of the dog because it was scary.,it,38,The cat,0,False,the dog,22,True
+The cat was afraid of the dog because it was timid.,it,38,The cat,0,True,the dog,22,False
+The violin fell off the table because someone knocked it off.,it,54,The violin,0,True,the table,20,False
+The violin fell off the table because it was unstable.,it,38,The violin,0,False,the table,20,True
+Lily gave Amber a hug because she was sad.,she,30,Lily,0,False,Amber,10,True
+Lily gave Amber a hug because she was sorry.,she,30,Lily,0,True,Amber,10,False
+The birds ate the seeds because they were hungry.,they,32,The birds,0,True,the seeds,14,False
+The birds ate the seeds because they were tasty.,they,32,The birds,0,False,the seeds,14,True
+"Josie did not like Sarah, but she did not know it.",she,30,Josie,0,False,Sarah,19,True
+"Josie did not like Sarah, but she did not tell her.",she,30,Josie,0,True,Sarah,19,False
+Ken tried to sneak past the boss because he was late for work.,he,41,Ken,0,True,the boss,24,False
+Ken tried to sneak past the boss because he was looking for late people.,he,41,Ken,0,False,the boss,24,True
+The hyenas scavenged from the lions because they were desperate.,they,44,The hyenas,0,True,the lions,26,False
+The hyenas scavenged from the lions because they had left scraps.,they,44,The hyenas,0,False,the lions,26,True
+The fisherman hooked a big fish but he got away.,he,36,The fisherman,0,False,a big fish,21,True
+The fisherman hooked a big fish but he dropped his pole.,he,36,The fisherman,0,True,a big fish,21,False
+The geology department petitioned the school board for money because they needed funding.,they,69,The geology department,0,True,the school board,34,False
+The geology department petitioned the school board for money because they could grant funding.,they,69,The geology department,0,False,the school board,34,True
+"George scored against Thomas in the shootout, so he won the game.",he,49,George,0,True,Thomas,22,False
+"George scored against Thomas in the shootout, so he lost the game.",he,49,George,0,False,Thomas,22,True
+Lakshman asked Vivan to get him some ice cream because he was hot.,he,55,Lakshman,0,True,Vivan,15,False
+Lakshman asked Vivan to get him some ice cream because he owed him money.,he,55,Lakshman,0,False,Vivan,15,True
+Yuri owed Ivan money because he paid for the vodka.,he,29,Yuri,0,False,Ivan,10,True
+Yuri owed Ivan money because he lost the bet.,he,29,Yuri,0,True,Ivan,10,False
+Steve hired Jose because he was a hard worker.,he,25,Steve,0,False,Jose,12,True
+Steve hired Jose because he could not find anyone better.,he,25,Steve,0,True,Jose,12,False
+"The outlaw shot the sheriff, but he did not shoot the deputy.",he,33,The outlaw,0,True,the sheriff,16,False
+"The outlaw shot the sheriff, but he shot back.",he,33,The outlaw,0,False,the sheriff,16,True
+"Kelly neglected to tell Katie that their rent was due, but she told her later.",she,59,Kelly,0,True,Katie,24,False
+"Kelly neglected to tell Katie that their rent was due, but she remembered that it was due on the first of every month.",she,59,Kelly,0,False,Katie,24,True
+"The committee increased the price of the tickets to the dance for the students, but they did not like it.",they,84,The committee,0,False,the students,66,True
+"The committee increased the price of the tickets to the dance for the students, but they changed their decision later.",they,84,The committee,0,True,the students,66,False
+John wanted George to run for President because he was a great governor.,he,48,John,0,False,George,12,True
+John wanted George to run for President because he did not want to.,he,48,John,0,True,George,12,False
+"Olivia wants to make amends with Emily, but she is apprehensive.",she,44,Olivia,0,True,Emily,33,False
+"Olivia wants to make amends with Emily, but she no longer wants to be friends.",she,44,Olivia,0,False,Emily,33,True
+"Jill saw Jane fall down, and she helped her up.",she,29,Jill,0,True,Jane,9,False
+"Jill saw Jane fall down, and she asked her for help.",she,29,Jill,0,False,Jane,9,True
+"Larry purchased some of Marty's Lemonade, and he made money.",he,46,Larry,0,False,Marty,24,True
+"Larry purchased some of Marty's Lemonade, and he wanted the recipe.",he,46,Larry,0,True,Marty,24,False
+The professor gave the student a bad grade because he did not study.,he,51,The professor,0,False,the student,19,True
+The professor gave the student a bad grade because he was strict.,he,51,The professor,0,True,the student,19,False
+We took the books to the shops because they were old.,they,39,the books,8,True,the shops,21,False
+We took the books to the shops because they would buy them.,they,39,the books,8,False,the shops,21,True
+We gave the fruit to the humans because they were hungry.,they,40,the fruit,8,False,the humans,21,True
+We gave the fruit to the humans because they were ripe.,they,40,the fruit,8,True,the humans,21,False
+Battlefield 3 is more fun than Modern Warfare 3 because it is a better game.,it,56,Battlefield 3,0,True,Modern Warfare 3,31,False
+Battlefield 3 is more fun than Modern Warfare 3 because it is a crappy game.,it,56,Battlefield 3,0,False,Modern Warfare 3,31,True
+John attacked Tim because he hates communists.,he,26,John,0,True,Tim,14,False
+John attacked Tim because he was a communist.,he,26,John,0,False,Tim,14,True
+Someone hit Billy in the face because he was angry.,he,38,Someone,0,True,Billy,12,False
+Someone hit Billy in the face because he was being rude.,he,38,Someone,0,False,Billy,12,True
+Joe has more money than Adam since he has a better job.,he,35,Joe,0,True,Adam,24,False
+Joe has more money than Adam since he has no job.,he,35,Joe,0,False,Adam,24,True
+Pigs are better than sheep because they make bacon.,they,35,Pigs,0,True,sheep,21,False
+Pigs are better than sheep because they do not make bacon.,they,35,Pigs,0,False,sheep,21,True
+The car beat the bike because it was faster.,it,30,The car,0,True,the bike,13,False
+The car beat the bike because it was too slow.,it,30,The car,0,False,the bike,13,True
+The blimp hit the tree because it lost air.,it,31,The blimp,0,True,the tree,14,False
+The blimp hit the tree because it was in the way.,it,31,The blimp,0,False,the tree,14,True
+Bob sued Bill because he was embezzling funds.,he,22,Bob,0,False,Bill,9,True
+Bob sued Bill because he wanted more money.,he,22,Bob,0,True,Bill,9,False
+I gave the donkey some food because it was hungry.,it,36,some food,18,False,the donkey,7,True
+I gave the donkey some food because it was fresh.,it,36,some food,18,True,the donkey,7,False
+The humans were afraid of the robots because they were weak.,they,45,The humans,0,True,the robots,26,False
+The humans were afraid of the robots because they were strong.,they,45,The humans,0,False,the robots,26,True
+The Playstation is outperforming the Xbox because it has better games.,it,50,The Playstation,0,True,the Xbox,33,False
+The Playstation is outperforming the Xbox because it is prone to hardware failure.,it,50,The Playstation,0,False,the Xbox,33,True
+Sean is better than Watson at anaphora resolution because he can naturally understand natural language.,he,58,Sean,0,True,Watson,20,False
+Sean is better than Watson at anaphora resolution because he has trouble understanding natural language.,he,58,Sean,0,False,Watson,20,True
+Sentient machines will kill all humans because they have giant death rays.,they,47,Sentient machines,0,True,all humans,28,False
+Sentient machines will kill all humans because they are inferior beings.,they,47,Sentient machines,0,False,all humans,28,True
+Watson beat Ken at Jeopardy because he is a superior machine.,he,36,Watson,0,True,Ken,12,False
+Watson beat Ken at Jeopardy because he is an inferior human.,he,36,Watson,0,False,Ken,12,True
+Larry trusted Page because Bill told him to.,him,37,Larry,0,True,Page,14,False
+Larry trusted Page because Bill knows him.,him,38,Larry,0,False,Page,14,True
+Cosby supported Jay because Thea really liked him.,him,46,Cosby,0,False,Jay,16,True
+Cosby supported Jay because Thea asked him to.,him,39,Cosby,0,True,Jay,16,False
+Jace loves Jesus because he died for him.,he,25,Jace,0,False,Jesus,11,True
+Jace loves Jesus because he tasted his goodness.,he,25,Jace,0,True,Jesus,11,False
+Olga kicked Sara because she woke her up.,she,25,Olga,0,False,Sara,12,True
+Olga kicked Sara because she was drunk.,she,25,Olga,0,True,Sara,12,False
+Nola shot Christina in the head because she threatened to take all of her money.,she,40,Nola,0,False,Christina,10,True
+Nola shot Christina in the head because she thought it was a good idea to kill a human being.,she,40,Nola,0,True,Christina,10,False
+Rebecca kissed Dina because she loves her.,she,28,Rebecca,0,True,Dina,15,False
+Rebecca kissed Dina because she is a sweet girl.,she,28,Rebecca,0,False,Dina,15,True
+Mom brought Sara from school early because she was sick.,she,43,Mom,0,False,Sara,12,True
+Mom brought Sara from school early because she had an early meeting.,she,43,Mom,0,True,Sara,12,False
+Gorden got mad at his brother because he forgot to bring him chocolate.,he,38,Gorden,0,False,his brother,18,True
+Gorden got mad at his brother because he did not get good sleep.,he,38,Gorden,0,True,his brother,18,False
+John asked Bill because he was confused.,he,24,John,0,True,Bill,11,False
+John asked Bill because he knew the answer.,he,24,John,0,False,Bill,11,True
+John rated Bill because he was the judge.,he,24,John,0,True,Bill,11,False
+John rated Bill because he was a contestant.,he,24,John,0,False,Bill,11,True
+John called Bill because he needed someone to talk to.,he,25,John,0,True,Bill,12,False
+John called Bill because he was a good listener.,he,25,John,0,False,Bill,12,True
+John killed Bill because he was fighting for his life.,he,25,John,0,True,Bill,12,False
+John killed Bill because he was a zombie.,he,25,John,0,False,Bill,12,True
+Billy beat Tommy at Scrabble because that newbie had no skill.,that newbie,37,Billy,0,False,Tommy,11,True
+Billy beat Tommy at Scrabble because that newbie had all the luck.,that newbie,37,Billy,0,True,Tommy,11,False
+Mary had a little lamb until she was stolen by Cindy.,she,29,Mary,0,False,a little lamb,9,True
+Mary had a little lamb until she had lamb chops for dinner.,she,29,Mary,0,True,a little lamb,9,False
+The wolves chased the deer because they were predators.,they,35,The wolves,0,True,the deer,18,False
+The wolves chased the deer because they were prey.,they,35,The wolves,0,False,the deer,18,True
+The girls ate the apples because they were hungry.,they,33,The girls,0,True,the apples,14,False
+The girls ate the apples because they were ripe.,they,33,The girls,0,False,the apples,14,True
+The minister befriended King George so he would not get beheaded.,he,39,The minister,0,True,King George,24,False
+The minister befriended King George so he could have some friends.,he,39,The minister,0,False,King George,24,True
